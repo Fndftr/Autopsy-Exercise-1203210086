@@ -1,0 +1,5 @@
+08:44 PM 10/03/2024 Case 001-fend started by Fend
+08:59 PM 10/03/2024 Copied Exhibit001 to D:\Case\001\image
+09:10 PM 10/03/2024 Exhibit image SHA356
+09:24 PM 10/03/2024 Started autopsy v4.21
+08:44 PM 10/03/2024 Autopsy case data set to D:\Case\001\autopsy\001-fend

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2024/03/10 21:05:24 (WIB)</CreatedDate>
+  <ModifiedDate>2024/03/10 21:05:26 (WIB)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>001-fend_20240310_210524</Name>
+    <DisplayName>001-fend</DisplayName>
+    <Number>001</Number>
+    <Examiner>fend</Examiner>
+    <ExaminerPhone>085322419531</ExaminerPhone>
+    <ExaminerEmail>fendi.vir110@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
